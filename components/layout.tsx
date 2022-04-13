@@ -5,8 +5,8 @@ import styles from "./layout.module.css";
 import utilStyles from "../styles/utils.module.css";
 import Link from "next/link";
 
-const name = "[Your Name]";
-export const siteTitle = "Next.js Sample Website";
+const name = "Hope's Next.js Example Site";
+export const siteTitle = "Hope's Next.js Example Site";
 
 type Props = {
   children: React.ReactNode;
